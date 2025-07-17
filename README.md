@@ -11,7 +11,7 @@
 ##
 
 <div align="left">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizataveira&layout=compact&langs_count=8&theme=dracula"/>
+<!--    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizataveira&layout=compact&langs_count=8&theme=dracula"/> -->
 </div>
 
 <br/>
@@ -24,7 +24,7 @@
   	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
           
   	
   ##
