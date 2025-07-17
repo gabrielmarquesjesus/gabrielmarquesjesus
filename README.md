@@ -1,4 +1,4 @@
-### Olá! Me chamo Gabriel Marqes! <img align="right"  height="145" style="border-radius:50px;" src="https://i.pinimg.com/originals/59/7d/91/597d910bf603b13c67149b8abaac55b2.gif"> <br/>
+### Olá! Me chamo Gabriel Marques! <img align="right"  height="145" style="border-radius:50px;" src="https://i.pinimg.com/originals/59/7d/91/597d910bf603b13c67149b8abaac55b2.gif"> <br/>
 
 💻 **Desenvolvedor Full Stack**  
 
