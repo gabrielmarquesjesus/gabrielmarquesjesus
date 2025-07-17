@@ -1,4 +1,4 @@
-### Olá! Me chamo Gabriel Marqes! <img align="right"  height="145" style="border-radius:50px;" src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif"> <br/>
+### Olá! Me chamo Gabriel Marqes! <img align="right"  height="145" style="border-radius:50px;" src="https://i.pinimg.com/originals/59/7d/91/597d910bf603b13c67149b8abaac55b2.gif"> <br/>
 
 💻 **Desenvolvedor Full Stack**  
 
@@ -11,7 +11,7 @@
 ##
 
 <div align="left">
-<!--    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizataveira&layout=compact&langs_count=8&theme=dracula"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmarquesjesus&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <br/>
